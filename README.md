@@ -15,7 +15,7 @@ In this task, we were provided the data of a firms monthly income for 86 months 
 4. The greatest increase in profits (date and amount) over the entire period
 5. The greatest decrease in losses (date and amount) over the entire period
 
-After running the python code following outcomes were acheived: 
+After running the python code following outcomes were acheived: [PyBank Results](PyBank/images/results.png)
 
 # PyPoll
 
@@ -29,4 +29,4 @@ We were given a set of poll data in CSV format containing more then 3 Million ro
 4. The total number of votes each candidate won
 5. The winner of the election based on popular vote.
 
-After running the python code following outcomes were acheived: 
+After running the python code following outcomes were acheived: [PyPoll Results](PyPoll/images/results.png)
