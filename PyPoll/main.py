@@ -1,18 +1,18 @@
 import os
 import csv
 
-# Path to collect data from the Resources folder
+# Path to collect data from the resources folder and export data to text file
 poll_csv = os.path.join('Resources', 'election_data.csv')
 file_to_output = os.path.join("analysis", "poll_analysis.txt")
 
-# Declaration of necassary variables for initial calculations for months, total budget & average change
+# Declaration of necassary variables for initial calculations for votes and candidates name
 vote_total = 0
 candidate = ""
 
-# Declaration of necassary lists for storing values for average change and their corressponding months
+# Declaration of necassary lists for storing values for candidates and vote calculation
 final_list = {}
 
-# Declaration of values necassary for greatest profit (grt_profit) and loss (lst_profit) calculations
+# Declaration of values necassary for calculation of Winner
 winner_votes = 0
 winner_name = ""
     
