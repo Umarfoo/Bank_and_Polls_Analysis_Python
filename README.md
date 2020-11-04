@@ -1,4 +1,4 @@
-# Python - Banks and Polls Analysis
+# Python - Banks and Polls Calculations
 
 
 # Task Details
