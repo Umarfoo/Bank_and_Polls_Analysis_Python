@@ -1,8 +1,9 @@
-# Python Challenge:
+# Python - Budget and Polls Analysis
+
 
 # Task Details
 
-In this homework assignment, we were given two data sets for analysis and printing out the outcome in the terminal as well as exporting a txt file. 
+In this assignment, we were given two data sets for analysis and printing out the outcome in the terminal as well as exporting a txt file. 
 
 We had to apply our concepts learnt in class to run analysis of PyBank and PyPoll file. Both of these challenges encompasses a real-world situation where our newfound Python scripting skills can come in handy. 
 
