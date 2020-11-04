@@ -3,7 +3,7 @@
 
 # Task Details
 
-I wasvgiven two data sets for analysis and printing out the outcome in the terminal as well as exporting a txt file. 
+In this project, I was given two data sets for analysis and printing out the outcome in the terminal as well as exporting a txt file. 
 
 Applying python concepts to run analysis of PyBank and PyPoll file. Both of these challenges encompasses a real-world situation. 
 
